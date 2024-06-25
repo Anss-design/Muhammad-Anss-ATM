@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import inquirer from "inquirer";
 import chalk from "chalk"; // we use this code for colouring our text colour or background colour 
 // Atm name
